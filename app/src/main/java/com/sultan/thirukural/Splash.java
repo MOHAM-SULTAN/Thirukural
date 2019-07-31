@@ -10,12 +10,6 @@ import android.widget.LinearLayout;
 
 public class Splash extends Activity {
 
-//    public void onAttachedToWindow(){
-//        super.onAttachedToWindow();
-//        Window window = getWindow();
-//        window.setFormat(PixelFormat.RGBA_8888);
-//    }
-
     Thread splashThread;
     @Override
     public void onCreate(Bundle savedInstanceState){
